@@ -1,1 +1,2 @@
-# RTA-Coding-for-Creatives
+# Coding for Creatives | RTA, Ryerson University | Winter 2021
+This FCAD cross-disciplinary offering introduces concepts, techniques and strategies of computer programming and helps students to develop basic programming skills. The course includes underlying principles of computer languages and hands-on exercises in animation, interaction, and visualization. The focus is on creative applications of coded language in art and design with an emphasis on the manipulation of visual outputs. No prior coding experience is required.
